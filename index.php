@@ -67,7 +67,7 @@ $title = "Cuánto Bitcoin puedes comprar";
                         result = price.value*100/currencyValue
                     }
                     output.textContent = price.value;
-                    valorTotal.textContent = result;
+                    valorTotal.textContent = result.toFixed(4);
                 });
             </script>
         </div>
