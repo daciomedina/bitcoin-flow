@@ -2,6 +2,7 @@
 $title = "Cuánto Bitcoin puedes comprar";
 ?>
 
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
